@@ -1,0 +1,4 @@
+{
+  "ticket_received_msg_one": "<0>{{username}}</0> got <5>{{count}}</5> ticket",
+  "ticket_received_msg_other": "<0>{{username}}</0> got <5>{{count}}</5> ticket"
+}
